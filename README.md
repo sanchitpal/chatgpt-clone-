@@ -1,2 +1,2 @@
-# chatgpt-clone-
-creating a replica  of  chatgpt just for learning and testing my coding skills  
+# SigmaGPT
+A MERN based ChatGPT replica implemented from scratch using OpenAI.
